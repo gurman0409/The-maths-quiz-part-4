@@ -1,0 +1,33 @@
+body
+{
+    background-color: salmon;
+}
+.first_div1 , .second_div2
+{
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+#player1_input , #player2_input
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: red;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
